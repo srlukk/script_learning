@@ -1,1 +1,1 @@
-# script_learning
+projeto de criar um script pro learning..
